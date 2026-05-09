@@ -37,8 +37,5 @@ A arquitetura segue o padrão de camadas para facilitar a manutenção:
 3. Execute o comando: `./mvnw spring-boot:run`.
 4. Acesse a documentação interativa em: `http://localhost:8085/swagger-ui/index.html`.
 
-## 📸 Demonstração
-
-![POST](assets/POST.jpg)
 
 ---
